@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static.thenounproject.com/png/94090-200.png" align="center" style="width: 100%" />
+<img src="https://static.thenounproject.com/png/94090-200.png" align="center" style="width: 15%" />
 </div>  
   
 
